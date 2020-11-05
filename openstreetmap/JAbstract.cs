@@ -5,7 +5,7 @@ using System.Text.Json.Serialization;
 
 namespace GeoProject.openstreetmap
 {
-    public class JAbstract
+    public abstract class JAbstract
     {
         public long place_id { get; set; }
         public string licence { get; set; }
