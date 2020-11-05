@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoProject", "GeoProject.csproj", "{5D0C6E01-AC32-40AA-9591-56F1A2A0F3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0C6E01-AC32-40AA-9591-56F1A2A0F3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0C6E01-AC32-40AA-9591-56F1A2A0F3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0C6E01-AC32-40AA-9591-56F1A2A0F3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0C6E01-AC32-40AA-9591-56F1A2A0F3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF01BED-8618-4CC0-8470-F7724B1BF5FB}
+	EndGlobalSection
+EndGlobal
